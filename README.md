@@ -13,4 +13,28 @@ Iniciei minha jornada profissional como Aprendiz de serviços gerais na Coamo em
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
-          
+<img 
+  aling="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+/>
+<img 
+  aling="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+/>  
+<img 
+  aling="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+/> 
+       
