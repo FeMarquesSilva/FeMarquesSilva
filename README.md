@@ -97,4 +97,4 @@ Iniciei minha trajetória profissional em 2018 como Aprendiz de Serviços Gerais
 
 </p>
 
-![snake gif](https://github.com/FeMarquesSilva/FeMarquesSilva/blob/output/snake.svg)
+![snake gif](https://github.com/FeMarquesSilva/FeMarquesSilva/blob/output/snake.svg) 
