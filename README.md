@@ -73,26 +73,3 @@ Iniciei minha trajetória profissional em 2018 como Aprendiz de Serviços Gerais
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-       
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=FeMarquesSilva&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeMarquesSilva&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=FeMarquesSilva&theme=transparent&hide_border=true"
-  />
-</p>
