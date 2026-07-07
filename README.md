@@ -1,7 +1,7 @@
 # 💻 Felipe Marques 🌾
 **`Desenvolvedor TR`**
 <p>
-Meu nome é Felipe Marques, tenho 22 anos e sou residente no Paraná. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Integrado, com conclusão em 2025. Tenho grande interesse por tecnologia e acredito na importância do aprendizado contínuo.
+Meu nome é Felipe Marques, tenho 23 anos e sou residente no Paraná. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Integrado, com conclusão em 2025. Tenho grande interesse por tecnologia e acredito na importância do aprendizado contínuo.
 
 Iniciei minha trajetória profissional em 2018 como Aprendiz de Serviços Gerais na Coamo. Em 2021, fui efetivado na empresa, atuando na área de logística de transportes. Em 2026, fui promovido ao cargo de Analista de Sistemas Tr., posição que ocupo atualmente.
 </p>
