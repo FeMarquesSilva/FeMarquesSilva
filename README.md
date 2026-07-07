@@ -79,22 +79,20 @@ Iniciei minha trajetória profissional em 2018 como Aprendiz de Serviços Gerais
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FeMarquesSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=FeMarquesSilva&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeMarquesSilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeMarquesSilva&layout=compact&theme=transparent&hide_border=true&langs_count=8"
   />
-
 </p>
 
-![snake gif](https://github.com/FeMarquesSilva/FeMarquesSilva/blob/output/snake.svg) 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=FeMarquesSilva&theme=transparent&hide_border=true"
+  />
+</p>
